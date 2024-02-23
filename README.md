@@ -6,6 +6,7 @@
 <!-- <br>🤝 I’m looking for help with d -->
 <!-- <br>💬 Ask me about  -->
 
+![](https://komarev.com/ghpvc/?username=kasun-pro&color=green)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-pro)
